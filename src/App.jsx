@@ -1,6 +1,13 @@
 import "./App.css";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
+// import dotenv from "dotenv";
+
+// dotenv.config();
+
+// export const APP_ID = process.env.REACT_APP_APP_ID;
+// export const SERVER_SECRET = process.env.REACT_APP_SERVER_SECRET;
+
 import HomePage from "../components/HomePage";
 import VideoPage from "../components/VideoPage";
 

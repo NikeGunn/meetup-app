@@ -7,6 +7,7 @@ const HomePage = () => {
   const submitHandler = () => {
     navigate(`/room/${input}`);
   };
+
   return (
     <div>
       <div>
