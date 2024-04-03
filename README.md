@@ -9,3 +9,5 @@ To run the project
 # Screen Shot
 
 ![Capture](https://github.com/NikeGunn/imagess/blob/main/meetup-by-nikhil.PNG)
+![Capture](https://github.com/NikeGunn/imagess/blob/main/2.PNG)
+![Capture](https://github.com/NikeGunn/imagess/blob/main/3.PNG)
